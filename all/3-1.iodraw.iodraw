@@ -13,8 +13,14 @@
         <mxCell id="hqnXhbAje4qWMLNbHYn5-3" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
           <mxGeometry x="394" y="220" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hqnXhbAje4qWMLNbHYn5-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;t&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="435" y="228" width="30" height="30" as="geometry" />
+        <mxCell id="hqnXhbAje4qWMLNbHYn5-4" value="&lt;span style=&quot;font-size: 10px; text-wrap-mode: wrap;&quot;&gt;t×1×1&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="425" y="228" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hqnXhbAje4qWMLNbHYn5-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="230" as="sourcePoint" />
+            <mxPoint x="280" y="180" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
