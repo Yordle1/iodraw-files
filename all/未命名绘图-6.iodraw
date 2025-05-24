@@ -19,6 +19,21 @@
         <mxCell id="YShcT6TMxHetJlBGCCgJ-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YShcT6TMxHetJlBGCCgJ-6">
           <mxGeometry x="155" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YShcT6TMxHetJlBGCCgJ-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="190" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YShcT6TMxHetJlBGCCgJ-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="165" y="220" width="215" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YShcT6TMxHetJlBGCCgJ-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YShcT6TMxHetJlBGCCgJ-8">
+          <mxGeometry width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YShcT6TMxHetJlBGCCgJ-10" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YShcT6TMxHetJlBGCCgJ-8">
+          <mxGeometry x="75" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YShcT6TMxHetJlBGCCgJ-11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YShcT6TMxHetJlBGCCgJ-8">
+          <mxGeometry x="155" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
