@@ -39,9 +39,6 @@
         <mxCell id="YShcT6TMxHetJlBGCCgJ-11" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="YShcT6TMxHetJlBGCCgJ-8">
           <mxGeometry x="155" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YShcT6TMxHetJlBGCCgJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YShcT6TMxHetJlBGCCgJ-4" target="YShcT6TMxHetJlBGCCgJ-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="YShcT6TMxHetJlBGCCgJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="341" y="190" as="targetPoint" />
