@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YShcT6TMxHetJlBGCCgJ-100" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="240" y="180" width="193.33333333333331" height="120" as="geometry" />
+          <mxGeometry x="240" y="180" width="193.33333333333331" height="126.67000000000002" as="geometry" />
         </mxCell>
         <mxCell id="YShcT6TMxHetJlBGCCgJ-72" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;x1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="YShcT6TMxHetJlBGCCgJ-100">
           <mxGeometry x="11.669999999999987" y="90" width="30" height="30" as="geometry" />
@@ -70,8 +70,8 @@
             <mxPoint x="140" y="46.53" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YShcT6TMxHetJlBGCCgJ-121" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="YShcT6TMxHetJlBGCCgJ-121" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YShcT6TMxHetJlBGCCgJ-100">
+          <mxGeometry x="-6" y="-33.329999999999984" width="180" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
