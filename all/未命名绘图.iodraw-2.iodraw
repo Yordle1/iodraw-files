@@ -14,7 +14,7 @@
           <mxGeometry x="340" y="180" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Rq5Z_r6vX-99oP9_p4yL-5" value="孤&lt;div&gt;立&lt;/div&gt;&lt;div&gt;词&lt;/div&gt;&lt;div&gt;手&lt;/div&gt;&lt;div&gt;语&lt;/div&gt;&lt;div&gt;识&lt;/div&gt;&lt;div&gt;别&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="270" width="50" height="122" as="geometry" />
+          <mxGeometry x="300" y="240" width="50" height="122" as="geometry" />
         </mxCell>
         <mxCell id="Rq5Z_r6vX-99oP9_p4yL-6" value="连&lt;div&gt;续&lt;br&gt;&lt;div&gt;手&lt;/div&gt;&lt;div&gt;语&lt;/div&gt;&lt;div&gt;识&lt;/div&gt;&lt;div&gt;别&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="417" y="278" width="46" height="122" as="geometry" />
@@ -46,26 +46,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="390" as="sourcePoint" />
             <mxPoint x="250" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Rq5Z_r6vX-99oP9_p4yL-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Rq5Z_r6vX-99oP9_p4yL-5" target="Rq5Z_r6vX-99oP9_p4yL-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="390" as="sourcePoint" />
-            <mxPoint x="250" y="340" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="320" y="260" />
-              <mxPoint x="380" y="260" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Rq5Z_r6vX-99oP9_p4yL-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Rq5Z_r6vX-99oP9_p4yL-6" target="Rq5Z_r6vX-99oP9_p4yL-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="390" as="sourcePoint" />
-            <mxPoint x="250" y="340" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="440" y="260" />
-              <mxPoint x="380" y="260" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
