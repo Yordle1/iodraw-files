@@ -8,43 +8,43 @@
           <mxGeometry x="220" y="100" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Rq5Z_r6vX-99oP9_p4yL-3" value="登录模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="180" width="80" height="40" as="geometry" />
+          <mxGeometry x="130" y="180" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Rq5Z_r6vX-99oP9_p4yL-4" value="手语识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="180" width="80" height="40" as="geometry" />
+          <mxGeometry x="320" y="180" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Rq5Z_r6vX-99oP9_p4yL-5" value="孤&lt;div&gt;立&lt;/div&gt;&lt;div&gt;词&lt;/div&gt;&lt;div&gt;手&lt;/div&gt;&lt;div&gt;语&lt;/div&gt;&lt;div&gt;识&lt;/div&gt;&lt;div&gt;别&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="240" width="50" height="122" as="geometry" />
+          <mxGeometry x="280" y="240" width="50" height="122" as="geometry" />
         </mxCell>
         <mxCell id="Rq5Z_r6vX-99oP9_p4yL-6" value="连&lt;div&gt;续&lt;br&gt;&lt;div&gt;手&lt;/div&gt;&lt;div&gt;语&lt;/div&gt;&lt;div&gt;识&lt;/div&gt;&lt;div&gt;别&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="240" width="46" height="122" as="geometry" />
+          <mxGeometry x="390" y="240" width="46" height="122" as="geometry" />
         </mxCell>
         <mxCell id="Rq5Z_r6vX-99oP9_p4yL-7" value="登&lt;div&gt;录&lt;/div&gt;&lt;div&gt;功&lt;/div&gt;&lt;div&gt;能&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="240" width="50" height="122" as="geometry" />
+          <mxGeometry x="145" y="240" width="50" height="122" as="geometry" />
         </mxCell>
         <mxCell id="Rq5Z_r6vX-99oP9_p4yL-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Rq5Z_r6vX-99oP9_p4yL-7" target="Rq5Z_r6vX-99oP9_p4yL-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="390" as="sourcePoint" />
-            <mxPoint x="250" y="340" as="targetPoint" />
+            <mxPoint x="230" y="390" as="sourcePoint" />
+            <mxPoint x="280" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dQj68RuniJQT4ZXkml1h-1" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rq5Z_r6vX-99oP9_p4yL-4" target="Rq5Z_r6vX-99oP9_p4yL-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="240" as="sourcePoint" />
-            <mxPoint x="440" y="190" as="targetPoint" />
+            <mxPoint x="370" y="240" as="sourcePoint" />
+            <mxPoint x="420" y="190" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="380" y="230" />
-              <mxPoint x="325" y="230" />
+              <mxPoint x="360" y="230" />
+              <mxPoint x="305" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dQj68RuniJQT4ZXkml1h-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Rq5Z_r6vX-99oP9_p4yL-6" target="Rq5Z_r6vX-99oP9_p4yL-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="260" as="sourcePoint" />
-            <mxPoint x="410" y="210" as="targetPoint" />
+            <mxPoint x="340" y="260" as="sourcePoint" />
+            <mxPoint x="390" y="210" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="433" y="230" />
-              <mxPoint x="380" y="230" />
+              <mxPoint x="413" y="230" />
+              <mxPoint x="360" y="230" />
             </Array>
           </mxGeometry>
         </mxCell>
