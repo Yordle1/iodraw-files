@@ -122,10 +122,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="btHb3_zjnaY9ObB_Flwo-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="btHb3_zjnaY9ObB_Flwo-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="btHb3_zjnaY9ObB_Flwo-6" target="btHb3_zjnaY9ObB_Flwo-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="300" as="sourcePoint" />
             <mxPoint x="450" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="250" />
+              <mxPoint x="470" y="250" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
