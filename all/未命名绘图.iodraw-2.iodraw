@@ -72,7 +72,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JlBhsMJ9cI7DyDjQgrIU" name="第 2 页">
-    <mxGraphModel dx="372" dy="419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="543" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,8 +174,8 @@
         <mxCell id="btHb3_zjnaY9ObB_Flwo-31" value="输入预测结果" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="btHb3_zjnaY9ObB_Flwo-32" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="160" width="80" height="80" as="geometry" />
+        <mxCell id="btHb3_zjnaY9ObB_Flwo-32" value="是否继续预测" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="650" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
