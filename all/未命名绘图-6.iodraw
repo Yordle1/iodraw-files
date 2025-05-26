@@ -247,7 +247,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bq1t0ffQkTpuoleQzztC-7" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;计算中间层、输出层各单元的输入、输出&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="251.75" y="350" width="344.5" height="40" as="geometry" />
+          <mxGeometry x="280" y="350" width="316.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bq1t0ffQkTpuoleQzztC-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Bq1t0ffQkTpuoleQzztC-9" target="Bq1t0ffQkTpuoleQzztC-16">
           <mxGeometry relative="1" as="geometry" />
