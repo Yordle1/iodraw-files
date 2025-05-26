@@ -190,7 +190,7 @@
         <mxCell id="btHb3_zjnaY9ObB_Flwo-32" value="是否继续预测" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="640" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="btHb3_zjnaY9ObB_Flwo-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="btHb3_zjnaY9ObB_Flwo-32">
+        <mxCell id="btHb3_zjnaY9ObB_Flwo-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.121;entryY=0.502;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="btHb3_zjnaY9ObB_Flwo-32" target="btHb3_zjnaY9ObB_Flwo-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="580" as="sourcePoint" />
             <mxPoint x="400" y="460" as="targetPoint" />
