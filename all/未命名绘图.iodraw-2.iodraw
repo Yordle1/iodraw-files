@@ -72,7 +72,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JlBhsMJ9cI7DyDjQgrIU" name="第 2 页">
-    <mxGraphModel dx="588" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="202" dy="227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,7 +89,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="btHb3_zjnaY9ObB_Flwo-4" value="输入用户名和密码" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="btHb3_zjnaY9ObB_Flwo-6" value="用户名和密码是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="160" width="140" height="80" as="geometry" />
