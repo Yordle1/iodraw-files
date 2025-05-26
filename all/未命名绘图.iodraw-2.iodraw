@@ -181,6 +181,11 @@
         <mxCell id="btHb3_zjnaY9ObB_Flwo-31" value="输出预测结果" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="300" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="btHb3_zjnaY9ObB_Flwo-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="btHb3_zjnaY9ObB_Flwo-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="btHb3_zjnaY9ObB_Flwo-32" value="是否继续预测" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="203" width="120" height="80" as="geometry" />
         </mxCell>
