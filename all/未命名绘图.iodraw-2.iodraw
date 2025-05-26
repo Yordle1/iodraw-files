@@ -133,7 +133,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="btHb3_zjnaY9ObB_Flwo-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="btHb3_zjnaY9ObB_Flwo-41" target="btHb3_zjnaY9ObB_Flwo-29">
+        <mxCell id="btHb3_zjnaY9ObB_Flwo-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="btHb3_zjnaY9ObB_Flwo-22" target="btHb3_zjnaY9ObB_Flwo-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="btHb3_zjnaY9ObB_Flwo-22" value="视频格式是否正确&amp;amp;&amp;amp;是否选择功能" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -181,17 +181,11 @@
         <mxCell id="btHb3_zjnaY9ObB_Flwo-32" value="是否继续预测" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="188" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="btHb3_zjnaY9ObB_Flwo-41" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="450" width="40" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="btHb3_zjnaY9ObB_Flwo-42" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="228" width="40" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="btHb3_zjnaY9ObB_Flwo-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="btHb3_zjnaY9ObB_Flwo-22" target="btHb3_zjnaY9ObB_Flwo-41">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="410" as="sourcePoint" />
-            <mxPoint x="580" y="410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="btHb3_zjnaY9ObB_Flwo-41" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="390" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
