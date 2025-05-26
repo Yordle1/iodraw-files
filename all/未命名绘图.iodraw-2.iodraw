@@ -133,9 +133,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="btHb3_zjnaY9ObB_Flwo-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="btHb3_zjnaY9ObB_Flwo-22" target="btHb3_zjnaY9ObB_Flwo-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="btHb3_zjnaY9ObB_Flwo-22" value="视频格式是否正确&amp;amp;&amp;amp;是否选择功能" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="370" width="220" height="80" as="geometry" />
         </mxCell>
@@ -172,14 +169,8 @@
         <mxCell id="btHb3_zjnaY9ObB_Flwo-28" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="260" y="378" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="btHb3_zjnaY9ObB_Flwo-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="btHb3_zjnaY9ObB_Flwo-29" target="btHb3_zjnaY9ObB_Flwo-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="btHb3_zjnaY9ObB_Flwo-29" value="播放视频预测" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="318" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="btHb3_zjnaY9ObB_Flwo-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="btHb3_zjnaY9ObB_Flwo-31" target="btHb3_zjnaY9ObB_Flwo-32">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="btHb3_zjnaY9ObB_Flwo-31" value="输出预测结果" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="230" width="120" height="60" as="geometry" />
@@ -189,16 +180,6 @@
         </mxCell>
         <mxCell id="btHb3_zjnaY9ObB_Flwo-32" value="是否继续预测" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="640" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="btHb3_zjnaY9ObB_Flwo-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="btHb3_zjnaY9ObB_Flwo-32">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="580" as="sourcePoint" />
-            <mxPoint x="400" y="240" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="260" y="680" />
-              <mxPoint x="260" y="240" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="btHb3_zjnaY9ObB_Flwo-39" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="648" width="40" height="30" as="geometry" />
