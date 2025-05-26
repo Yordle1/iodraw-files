@@ -184,16 +184,14 @@
         <mxCell id="btHb3_zjnaY9ObB_Flwo-31" value="输入预测结果" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="btHb3_zjnaY9ObB_Flwo-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="btHb3_zjnaY9ObB_Flwo-32">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="500" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="291" y="680" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="btHb3_zjnaY9ObB_Flwo-32" value="是否继续预测" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="btHb3_zjnaY9ObB_Flwo-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="580" as="sourcePoint" />
+            <mxPoint x="420" y="530" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
