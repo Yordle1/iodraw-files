@@ -209,6 +209,9 @@
         <mxCell id="btHb3_zjnaY9ObB_Flwo-41" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="450" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="btHb3_zjnaY9ObB_Flwo-42" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="228" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
