@@ -700,6 +700,12 @@
         <mxCell id="JOeKVQddag8uHTHiKqCv-68" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;v&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="488.62" y="358" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JOeKVQddag8uHTHiKqCv-69" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;u&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="488.62" y="440" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JOeKVQddag8uHTHiKqCv-70" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;x&lt;sub&gt;t-1&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="411.18" y="490" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
