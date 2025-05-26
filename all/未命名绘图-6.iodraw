@@ -226,11 +226,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Bq1t0ffQkTpuoleQzztC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bq1t0ffQkTpuoleQzztC-2" target="Bq1t0ffQkTpuoleQzztC-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Bq1t0ffQkTpuoleQzztC-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="311" y="150" width="226" height="60" as="geometry" />
+        <mxCell id="Bq1t0ffQkTpuoleQzztC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Bq1t0ffQkTpuoleQzztC-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="424" y="210" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Bq1t0ffQkTpuoleQzztC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bq1t0ffQkTpuoleQzztC-4" target="Bq1t0ffQkTpuoleQzztC-5">
           <mxGeometry relative="1" as="geometry" />
