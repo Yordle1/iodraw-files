@@ -72,7 +72,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JlBhsMJ9cI7DyDjQgrIU" name="第 2 页">
-    <mxGraphModel dx="252" dy="284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="353" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,11 +103,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="btHb3_zjnaY9ObB_Flwo-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="325" y="38" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="btHb3_zjnaY9ObB_Flwo-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="315" y="158" width="50" height="30" as="geometry" />
+        <mxCell id="btHb3_zjnaY9ObB_Flwo-14" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="158" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
