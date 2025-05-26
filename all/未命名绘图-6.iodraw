@@ -281,13 +281,13 @@
             <mxPoint x="18" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bq1t0ffQkTpuoleQzztC-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;全部样本训练完&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Bq1t0ffQkTpuoleQzztC-16" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;全部样本训练完&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334" y="650" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Bq1t0ffQkTpuoleQzztC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bq1t0ffQkTpuoleQzztC-18" target="Bq1t0ffQkTpuoleQzztC-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Bq1t0ffQkTpuoleQzztC-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;更新学习次数&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Bq1t0ffQkTpuoleQzztC-18" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;更新学习次数&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="364" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bq1t0ffQkTpuoleQzztC-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
