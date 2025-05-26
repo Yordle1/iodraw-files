@@ -199,14 +199,8 @@
         <mxCell id="btHb3_zjnaY9ObB_Flwo-54" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="640" y="99" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qH_1IeZeGnUZjGnVu8_k-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qH_1IeZeGnUZjGnVu8_k-2" target="btHb3_zjnaY9ObB_Flwo-32">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="qH_1IeZeGnUZjGnVu8_k-2" value="手语识别模型预测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="220" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qH_1IeZeGnUZjGnVu8_k-8" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="128" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
