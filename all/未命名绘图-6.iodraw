@@ -72,7 +72,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JlBhsMJ9cI7DyDjQgrIU" name="第 2 页">
-    <mxGraphModel dx="1420" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="676" dy="300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -217,6 +217,9 @@
         </mxCell>
         <mxCell id="qH_1IeZeGnUZjGnVu8_k-8" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="530" y="128" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EW8RfT5-h_QzdkkeuQVk-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="10" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
