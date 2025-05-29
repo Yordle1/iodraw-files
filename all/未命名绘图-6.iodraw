@@ -76,11 +76,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="btHb3_zjnaY9ObB_Flwo-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="btHb3_zjnaY9ObB_Flwo-1" target="btHb3_zjnaY9ObB_Flwo-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="btHb3_zjnaY9ObB_Flwo-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="380" y="10" width="40" height="40" as="geometry" />
+        <mxCell id="btHb3_zjnaY9ObB_Flwo-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="btHb3_zjnaY9ObB_Flwo-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="50" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="btHb3_zjnaY9ObB_Flwo-2" value="结束" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="620" y="60" width="40" height="40" as="geometry" />
@@ -219,7 +218,7 @@
           <mxGeometry x="530" y="128" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EW8RfT5-h_QzdkkeuQVk-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="40" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
